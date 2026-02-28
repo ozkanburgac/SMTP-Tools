@@ -1,0 +1,5 @@
+{
+  "name": "SMTP Tester",
+  "description": "A web service to test SMTP connections and send test emails.",
+  "requestFramePermissions": []
+}
